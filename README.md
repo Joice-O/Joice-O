@@ -22,7 +22,7 @@ Meus repositórios incluem aplicações web, sistemas com banco de dados, algori
 | [EnergyDash](https://github.com/Joice-O/APS-2024) | Aplicação para acompanhar consumo de energia e metas de redução | Java e Swing |
 | [SmartStock](https://github.com/Joice-O/Front_SS) | Interface web para controle de estoque | HTML, CSS e JavaScript |
 
-As tecnologias dos projetos descrevem o código dos repositórios. Os trabalhos em grupo e forks preservam os créditos e contribuições de seus participantes.
+As tecnologias dos projetos descrevem o código dos repositórios.
 
 ## Contato
 
