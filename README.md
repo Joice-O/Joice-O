@@ -15,6 +15,8 @@ Olá! Sou estudante do último semestre de **Ciência da Computação na UNIP**.
 
 - [**API de Pedidos**](https://github.com/Joice-O/APIPedidos---Sistemas-Distribuidos): criação e consulta de pedidos com Python e FastAPI.
 - [**Snake Game**](https://github.com/Joice-O/Snake-Game): jogo da cobrinha desenvolvido com Python e Pygame.
+- [**EnergyDash**](https://github.com/Joice-O/EnergyDash)): acompanhamento de consumo energético com Java/Swing.
+- [**ComparaSort**](https://github.com/Joice-O/EnergyDash)): comparação acadêmica de métodos de ordenação com Java/Swing.
 
 ## Vamos conversar?
 
